@@ -1,0 +1,26 @@
+{
+  "name": "reactnimator",
+  "version": "0.1.0",
+  "description": "Exquisitely simple animation provider for React stateful components",
+  "main": "reactnimator.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drodsou/reactnimator.git"
+  },
+  "keywords": [
+    "react",
+    "animation"
+  ],
+  "author": "David Rodriguez Souto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drodsou/reactnimator/issues"
+  },
+  "homepage": "https://github.com/drodsou/reactnimator#readme"
+}
